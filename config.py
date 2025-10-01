@@ -20,3 +20,6 @@ ADMIN_NOTIFICATIONS_ID = -1003115166507
 # معرف قناة الأوامر الإدارية (يرسل منها الإداري أمر: ارسال_ملف)
 ADMIN_COMMANDS_ID = -1002923050539
 #-1002923050539
+PUBLIC_SERVICE_CHANNEL_ID = -1003073266207 # قناة الخدمة العامة
+
+file_id ="AgACAgQAAxkBAAISM2jdpTkAAThv2XzrSWfcxIJLynNkIQACz8sxG20n8FJDUAim719OpQEAAwIAA3gAAzYE"#صورة حساب شام كاش
